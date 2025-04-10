@@ -346,7 +346,7 @@
 					"if_list": [
 						{
 							"switch_id":1,
-							"if_speed":10000
+							"if_speed":10
 						}
 					],
 					"vlan_list": [
