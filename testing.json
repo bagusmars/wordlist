@@ -407,7 +407,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":21,
 							"ipv4":{
 								"address":"149.112.96.143",
 								"max_prefix":10000
