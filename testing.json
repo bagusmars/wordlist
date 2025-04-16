@@ -294,7 +294,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":23,
 							"ipv4":{
 								"address":"206.81.80.174",
 								"max_prefix":10
@@ -351,7 +351,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":4,
 							"ipv4":{
 								"address":"206.81.80.50"
 							},
@@ -384,7 +384,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":7,
 							"ipv4":{
 								"address":"206.81.80.143",
 								"max_prefix":10000
@@ -442,7 +442,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":91,
 							"ipv4":{
 								"address":"206.81.80.112",
 								"max_prefix":1000
@@ -465,7 +465,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":3,
+							"vlan_id":26,
 							"ipv4":{
 								"address":"149.112.96.112",
 								"max_prefix":1000
@@ -500,7 +500,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":1,
 							"ipv4":{
 								"address":"206.81.81.240",
 								"max_prefix":7
@@ -531,7 +531,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":7,
 							"ipv4":{
 								"address":"206.81.81.24",
 								"max_prefix":320
@@ -566,7 +566,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":5,
 							"ipv4":{
 								"address":"206.81.80.228",
 								"max_prefix":44
@@ -601,7 +601,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":11,
 							"ipv4":{
 								"address":"206.81.80.49",
 								"max_prefix":500
@@ -624,7 +624,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":14,
 							"ipv4":{
 								"address":"206.81.80.241",
 								"max_prefix":500
@@ -659,7 +659,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":18,
 							"ipv4":{
 								"address":"206.81.81.228",
 								"max_prefix":1500
@@ -717,7 +717,7 @@
 					],
 					"vlan_list": [
 						{
-							"vlan_id":2,
+							"vlan_id":31,
 							"ipv4":{
 								"address":"206.81.81.186",
 								"max_prefix":10
