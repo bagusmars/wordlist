@@ -1,0 +1,112 @@
+{
+	"version":"1.0",
+	"timestamp":"2025-04-10T08:19:01Z",
+	"ixp_list":[
+		{
+			"ixp_id":0,
+			"shortname":"IX",
+			"name":"IX",
+			"ixf_id":148,
+			"peering_policy_list":["Open","Selective","Restrictive"],
+			"switch":[
+				{
+					"id":0,
+					"name":"SIX KOMO 7504R3",
+					"city":"Seattle",
+					"country":"US",
+					"manufacturer":"Arista Networks, Inc.",
+					"model":"7504R3"
+				},
+			],
+			"vlan":[
+				{
+					"id":2,
+					"name":"MTU 1500",
+					"ipv4":{
+						"prefix":"206.81.80.0",
+						"mask_length":22
+					},
+					"ipv6":{
+						"prefix":"2001:504:16::",
+						"mask_length":64
+					}
+				}
+			]
+		},
+		{
+			"ixp_id":1,
+			"shortname":"safags",
+			"name":"dsgs",
+			"ixf_id":679,
+			"peeringdb_id":1285,
+			"url":"11",
+			"country":"US",
+			"support_email":"......",
+			"support_phone":"+1 1111111",
+			"emergency_email":"....",
+			"emergency_phone":"+1 111111",
+			"emergency_contact_hours":"24/7",
+			"billing_email":"...",
+			"billing_phone":"+1 111111",
+			"peering_policy_list":["Open","Selective","Restrictive"],
+			"switch":[
+				{
+					"id":0,
+					"name":"SIX KOMO 7504R3",
+					"city":"Seattle",
+					"country":"US",
+					"manufacturer":"Arista Networks, Inc.",
+					"model":"7504R3"
+				}
+			],
+			"vlan":[
+				{
+					"id":3,
+					"name":"MTU 9000 & multicast",
+					"ipv4":{
+						"prefix":"149.112.96.0",
+						"mask_length":22
+					},
+					"ipv6":{
+						"prefix":"2001:504:16:1::",
+						"mask_length":64
+					}
+				}
+			]
+		}
+	],
+	"member_list": [
+		{
+			"asnum":399135,
+			"member_type":"peering",
+			"name":"=Corporation",
+			"url":"https:/",
+			"peering_policy":"Open",
+			"member_since":"2024-08-02T00:00:00Z",
+			"connection_list": [
+				{
+					"ixp_id":0,
+					"state":"active",
+					"if_list": [
+						{
+							"switch_id":0
+						}
+					],
+					"vlan_list": [
+						{
+							"vlan_id":23,
+							"ipv4":{
+								"address":"206.81.80.174",
+								"max_prefix":10
+							},
+							"ipv6":{
+								"address":"2001:504:16::6:171f",
+								"max_prefix":20
+							}
+						}
+					]
+				},
+			]
+		}
+	]
+}
